@@ -13,7 +13,7 @@ Entre outros assunto como: <br>
 👶 Maternidade <br>
 🤘 Rock and roll <br>
 
-![Eliane Oliveira stats](https://github-readme-stats.vercel.app/api?username=ElianeOliveira&show_icons=true&theme=nightowl)
+![Eliane Oliveira stats](https://github-readme-stats.vercel.app/api?username=ElianeOliveiradeJesus&show_icons=true&theme=nightowl)
 
 ## Tecnologias que conheço:
 <div style="display: inline_block"><br>
