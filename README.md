@@ -25,4 +25,4 @@ Entre outros assunto como: <br>
 ## Contatos: 
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliane-oliveira-jesus)
-[![LinKedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com.br/eliane.oliverd@gamilcom)
+[![LinKedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eliane.oliverd@gmail.com)
